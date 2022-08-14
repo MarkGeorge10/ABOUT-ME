@@ -35,7 +35,7 @@
 
 - Dream Riders Android version (https://play.google.com/store/apps/details?id=com.dreamrider.dreamriders) iOS version (https://apps.apple.com/eg/app/dream-riders/id1629505438)
 
-- SKODA Cars Android version (https://play.google.com/store/apps/details?id=com.skoda.skodacar&fbclid=IwAR0Yn7daXTAMjYT2T0V207ya2q6vEzx3AM0hUtbmBHCIlbm3HtCDiwz8XZU)<br/> Behance (be.net/ProMinaAgency)<br/>Youtube (bit.ly/3hao2UY)
+- SKODA Cars Android version (https://play.google.com/store/apps/details?id=com.skoda.skodacar&fbclid=IwAR0Yn7daXTAMjYT2T0V207ya2q6vEzx3AM0hUtbmBHCIlbm3HtCDiwz8XZU)
 
 
 
